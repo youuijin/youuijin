@@ -3,8 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&height=200&color=gradient&section=header&text=UiJin's%20GitHub&fontAlign=70&fontAlignY=40&animation=fadeIn&fontColor=FFFFFF)
 
 
-  ![Uijin's GitHub stats](https://github-readme-stats.vercel.app/api?username=youuijin&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youuijin&layout=compact&theme=radical)
-
+  ![Uijin's GitHub stats](https://github-readme-stats.vercel.app/api?username=youuijin&show_icons=true&theme=holi) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youuijin&layout=compact&theme=holi)
 
 
 
