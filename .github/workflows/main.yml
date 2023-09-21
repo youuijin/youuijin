@@ -17,6 +17,7 @@ jobs:
           USERNAME: youuijin
       - name: Commit & Push
         run: |
+          git remote set-url origin https://youuijin@github.com/youuijin.git
           git config user.name youuijin
           git config user.email uijin0508@gmail.com
           git add -A .
